@@ -15,6 +15,7 @@
 //Output Format
 //One line containing an integer as per the question.
 
+//Coding Logic
 import Foundation
 import Glibc
 
@@ -28,25 +29,25 @@ if a ?? 0 > b ?? 0{
 }
 
 //Example Input
-Input 1:
-5
-6
+// Input 1:
+// 5
+// 6
 
-Input 2:
-1000
-10000
+// Input 2:
+// 1000
+// 10000
 
 //Example Output
-Output 1:
-6
+// Output 1:
+// 6
 
-Output 2:
-10000
+// Output 2:
+// 10000
 
-//Example Explanation
+// //Example Explanation
 
-//Explanation 1:
-Clearly, among 5 and 6, 6 is maximum.
+// //Explanation 1:
+// Clearly, among 5 and 6, 6 is maximum.
 
-//Explanation 2:
-Clearly, among 1000 and 10000, 10000 is maximum.
+// //Explanation 2:
+// Clearly, among 1000 and 10000, 10000 is maximum.
