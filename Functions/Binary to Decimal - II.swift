@@ -54,16 +54,4 @@ print(ans)
 
 
 
-//Example Explanation
-
-//Explanation 1:
-// For Student 1, percentage = (50+60+70+80+90)/5 = 70. Hence grade is C.
-
-//Explanation 2:
-// For Student 2, percentage = (90+90+90+90+90)/5 = 90. Hence grade is A.
-
-
-
-
-
 
